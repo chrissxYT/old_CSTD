@@ -1,0 +1,9 @@
+D:\workspace_VS\CSTD\CSTD\bin\x64\Release\netstandard1.6\CSTD.deps.json
+D:\workspace_VS\CSTD\CSTD\bin\x64\Release\netstandard1.6\CSTD.dll
+D:\workspace_VS\CSTD\CSTD\bin\x64\Release\netstandard1.6\CSTD.pdb
+D:\workspace_VS\CSTD\CSTD\obj\x64\Release\netstandard1.6\CSTD.csproj.CoreCompileInputs.cache
+D:\workspace_VS\CSTD\CSTD\obj\x64\Release\netstandard1.6\CSTD.AssemblyInfo.cs
+D:\workspace_VS\CSTD\CSTD\obj\x64\Release\netstandard1.6\CSTD.dll
+D:\workspace_VS\CSTD\CSTD\obj\x64\Release\netstandard1.6\CSTD.pdb
+D:\workspace_VS\CSTD\CSTD\obj\x64\Release\netstandard1.6\CSTD.csprojAssemblyReference.cache
+D:\workspace_VS\CSTD\CSTD\obj\x64\Release\netstandard1.6\CSTD.AssemblyInfoInputs.cache
